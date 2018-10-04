@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "username": "david",
+            "password": "lean",
+            "alias": "David L."
+        },
+        {
+            "username": "joel",
+            "password": "ibarra",
+            "alias": "Joel i."
+        },
+        {
+            "username": "darwin",
+            "password": "lopena",
+            "alias": "Darwin L."
+        },
+        {
+            "username": "paul",
+            "password": "hartley",
+            "alias": "Paul H."
+        }
+    ],
+    "messages":[
+        {
+            
+        }
+    ]
+}
