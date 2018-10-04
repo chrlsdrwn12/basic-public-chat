@@ -6,24 +6,19 @@
             "alias": "David L."
         },
         {
-            "username": "joel",
-            "password": "ibarra",
-            "alias": "Joel i."
+            "username": "quentin",
+            "password": "tarantino",
+            "alias": "Quentin T."
         },
         {
-            "username": "darwin",
-            "password": "lopena",
-            "alias": "Darwin L."
+            "username": "alfred",
+            "password": "hitchcock",
+            "alias": "Alfred H."
         },
         {
-            "username": "paul",
-            "password": "hartley",
-            "alias": "Paul H."
-        }
-    ],
-    "messages":[
-        {
-            
+            "username": "clint",
+            "password": "eastwood",
+            "alias": "Clint E."
         }
     ]
 }
